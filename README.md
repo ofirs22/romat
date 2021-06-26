@@ -1,15 +1,10 @@
-# romat
+# Restaurant website
 Website for Romat
 
 #website theme
-Website for air condition engineering company
+website for an Italian restaurant
 
-#website language
-Website will be in Hebrew and will be set with RTL dir attribute
-
-#Website structure
-website will have home page, about page, projects page, contact us page
-
-#Home page
+#website pages
+home, about, menu, order,
 
 
